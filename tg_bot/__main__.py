@@ -22,7 +22,7 @@ Hlo {}, my name is {}! if you have any questions about how to use me please give
 
 I'am a Group Manager bot maintained by  [This Legend](tg://user?id={}).
 
-I Am An Admin Bot In @TR_OFFICIAL_GROUP.
+Join In Our All Channels Through @TR_LinkZ.
 
 """
 
