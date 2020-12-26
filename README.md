@@ -1,6 +1,7 @@
 # TR OFFICIAL GROUP ADMIN
 
 [Join In Our All Channels In Telegram By Clicking Here](https://t.me/TR_LinkZ)
+
 Alternatively, [find me on telegram](https://t.me/Qwertyclass)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
