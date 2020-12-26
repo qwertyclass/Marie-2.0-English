@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1309491214"
+      "value": "1488278949"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "JoKeR_2006_JBS"
+      "value": "Qwertyclass"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,19 +41,19 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1309491214"
+      "value": "1309491214 1488278949"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1309491214"
+      "value": "1309491214 1488278949"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1309491214"
+      "value": "1309491214 1488278949"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://t.me/JoKeR_2006_JBS"
+      "value": "https://www.paypal.me/Your_id_here"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
@@ -73,7 +73,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBAAD6AMAAkJ_EQNu_RjOszbmnxYE"
+      "value": "CAACAgUAAxkBAAEHcAZf5tw9q74ycBNK4dGVCkan8fcExQACLwEAAgNXEVfuRkST4NEzrB4E"
     }
   },
   "addons": [
